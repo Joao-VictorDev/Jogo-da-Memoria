@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Memória</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+    <script src="js/gamer.js" defer></script>
+    <link rel="icon" type="image/x-icon" href="/img/jogo.png">
+</head>
+
+<body>
+
+    <div class="game-container">
+        <h1>Jogo da Memória</h1>
+        <div class="game-info">
+            <span>Movimentos: <span id="moves">0</span></span>
+            <span>Tempo: <span id="timer">00:00</span></span>
+        </div>
+        <button id="restart-btn">Reiniciar</button>
+        <div id="game-board" class="board"></div>
+    </div>
+
+    <div id="win-screen" class="win-screen">
+        <div class="win-content">
+            <h2>🎉 Parabéns! 🎉</h2>
+            <p>Tempo: <span id="final-time">00:00</span></p>
+            <p>Movimentos: <span id="final-moves">0</span></p>
+            <button id="play-again-btn">Jogar Novamente</button>
+        </div>
+        <canvas id="fireworks-canvas"></canvas>
+    </div>
+
+</body>
+
+</html>
