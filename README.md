@@ -2,7 +2,7 @@
 
 Um jogo da memória interativo com emojis, efeitos visuais e sonoros desenvolvido com HTML, CSS e JavaScript.
 
-![Captura de Tela do Jogo]((https://github.com/Joao-VictorDev/Jogo-da-Memoria/blob/main/Capturadetele1.jpeg)) <!-- Adicione uma imagem do seu jogo -->
+![Captura de Tela do Jogo](https://imgur.com/hkvNFkc) <!-- Adicione uma imagem do seu jogo -->
 
 ## ✨ Funcionalidades
 
