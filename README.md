@@ -31,5 +31,6 @@ Um jogo da memória interativo com emojis, efeitos visuais e sonoros desenvolvid
 Para rodar localmente:
 
 ```bash
-git clone https://github.com/seu-usuario/jogo-da-memoria.git
-cd jogo-da-memoria
+git clone https://github.com/Joao-VictorDev/Jogo-da-Memoria.git
+cd Jogo-da-Memoria
+
