@@ -1,7 +1,7 @@
 # 🧠 Jogo da Memória com Emojis
 
 Um jogo da memória interativo com emojis, efeitos visuais e sonoros desenvolvido com HTML, CSS e JavaScript.
-
+https://projetojogo.netlify.app/
 ![Captura de Tela do Jogo](https://i.imgur.com/hkvNFkc.png)
 
 ## ✨ Funcionalidades
